@@ -7,8 +7,9 @@ Theme
 
 Ocean, atmosphere, weather, climate, islands and bridges.
 
-Transport
+Data, information and decision making.
 
+Transport
 
 Venue
 =====
@@ -55,8 +56,23 @@ anyone is interested in helping with translation that would be good.
 Workshops
 =========
 
+PyData conferences typically start with a day of tutorials and
+workshops.
+
+Many of these are excellent introductions to python and the tools that
+people are using for data science.
+
+This could be invaluable and there will likely be many residents
+interested in attending.  
+
+It would be good to have some attendees who can help run workshops.
+
+
 Projects
 ========
+
+There are many small projects that people could work on over the next
+few months, that would make good subject to present at a conference.
 
 Social
 ======
@@ -69,4 +85,15 @@ Partners
 
 NumFocus
 ========
+
+Budget
+------
+
+Can they give guidance on budgets?
+
+Schedule
+--------
+
+How much flexibility is there in the converence agenda and format?
+
 

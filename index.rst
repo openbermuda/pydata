@@ -11,6 +11,14 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   README 
+    
+   plan
+
+   minutes
+
+
+
 
 
 Indices and tables

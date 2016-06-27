@@ -96,4 +96,4 @@ Schedule
 
 How much flexibility is there in the converence agenda and format?
 
-
+Should we pick a theme or themes for the conference?
